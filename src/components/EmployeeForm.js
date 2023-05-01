@@ -10,6 +10,7 @@ class EmployeeForm extends Component{
             firstName: event.target.fName.value,
             lastName:event.target.lName.value,
             employeeId:event.target.employeeId.value,
+            email: event.target.email.value,
             level: event.target.employeeLevel.value
         }
 
