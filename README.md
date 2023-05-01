@@ -51,5 +51,11 @@ npm install react-router-dom localforage match-sorter sort-by
 npm install react-bootstrap bootstrap
 npm install @mui/material @emotion/react @emotion/styled
 
+npm install tachyons@4.12.0
+https://tachyons.io/
+
+npm i react-landing-page@next
+https://hermanya.github.io/react-landing-page/getting-started/
+
 
 
