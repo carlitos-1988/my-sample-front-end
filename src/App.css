@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.employee-header{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.employee-btn{
+  margin-left: 28px;
+}
+
+.profile-image {
+  border-radius: 50%;
+}
+
+.ms-auto{
+  display: flex;
+  align-items: right;
 }
